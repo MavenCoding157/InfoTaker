@@ -1,0 +1,12 @@
+pip install webbrowser
+pip install bs4
+pip install BeautifulSoup
+pip install appJar
+pip install pyautogui
+pip install dhooks
+pip install Webhook
+pip install getpass
+pip install pystyle
+pip install smtplib
+pip install pynput.mouse
+pip install pynput.keyboard 

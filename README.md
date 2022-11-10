@@ -9,7 +9,7 @@ To run the file
 First to actually get the password for the file you have to run the 'authentication checker' file which will show a
 popup and show you the password.
 
-To run the file just simply double click the 'InfoTaker Main' shortcut file.
+To run the file just simply double click the 'InfoTaker' exe file.
 
 Layer7_booter stuff
 the username for the Layer7_ddos is 'user123'

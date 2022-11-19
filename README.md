@@ -36,10 +36,14 @@ When you have downloaded the tool make sure to rename the file to 'InfoTaker' as
 
                       SUB TO MY CHANNEL
 ==============================================================
+
 -->https://www.youtube.com/channel/UCkP2YjZfvZIfArYbAUyRLsg<--
+
 ==============================================================
 
                  🌐PLEASE VISIT MY WEBSITE🌐
-==============================================================
----------->https://123xboxlookup.000webhostapp.com<-----------
-==============================================================
+======================================================
+
+----->https://123xboxlookup.000webhostapp.com<----------
+
+======================================================

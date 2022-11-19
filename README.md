@@ -41,5 +41,5 @@ When you have downloaded the tool make sure to rename the file to 'InfoTaker' as
 
                  🌐PLEASE VISIT MY WEBSITE🌐
 ==============================================================
--------------->123xboxlookup.000webhostapp.com<---------------
+---------->https://123xboxlookup.000webhostapp.com<-----------
 ==============================================================

@@ -32,6 +32,10 @@ To install the python modules just simply run the 'setup' file
 
 When you have downloaded the tool make sure to rename the file to 'InfoTaker' as it wont be able to detect the path otherwise.
 
+**Legal notice**
+
+THIS SOFTWARE IS PROVIDED FOR EDUCATIONAL USE ONLY! IF YOU ENGAGE IN ANY ILLEGAL ACTIVITY THE AUTHOR DOES NOT TAKE ANY RESPONSIBILITY FOR IT. BY USING THIS SOFTWARE YOU AGREE WITH THESE TERMS.
+
 **AND LAST THING!!!**
 
                       SUB TO MY CHANNEL

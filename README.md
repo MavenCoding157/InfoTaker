@@ -1,4 +1,4 @@
-#README.md
+![Screenshot 2022-11-19 231219](https://user-images.githubusercontent.com/117538886/202875157-b39f225f-5850-4d5d-9787-207a13229d22.jpg)
 
 DISCLAIMER!, Before you use this tool we, the creators, are not responsible for any actions performed with the use of this tool.
 
@@ -24,6 +24,10 @@ if your python is installed to a different place than on the script make sure to
 Installing pip modules
 
 To install the python modules just simply run the 'setup' file
+
+**IMPORTANT**
+
+When you have downloaded the tool make sure to rename the file to 'InfoTaker' as it wont be able to detect the path otherwise.
 
 AND LAST THING!!!
 
